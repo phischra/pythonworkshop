@@ -1,2 +1,2 @@
-DEV14YCQY0
-§J0v4nZw?A
+username = 'DEV14YCQY0'
+password = '§J0v4nZw?A'
