@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+Genesis_API
+Plotly_API
+Spotify_API
+Twitter_APIps
